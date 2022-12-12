@@ -16,5 +16,5 @@ systemctl status cron
 gwbrlkofikqvhpdm
 
 **Contourner la sécurité :**
-Faut clear les cookies et attendre 30 min à chaque ban
+Faut clear les cookies et attendre 30 min à chaque ban ?
 
