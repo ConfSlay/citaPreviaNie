@@ -1,4 +1,4 @@
-crontab -e to edit richard's cron
+**crontab -e to edit current user's cron**
 
 crontab -e
 DISPLAY=:0
@@ -7,14 +7,14 @@ CTRL + X
 O
 ENTER
 
-pour check si le cron tourne bien 
+***pour check si le cron tourne bien*** 
 
 systemctl status cron
 
-GMAIL CONFIG :
+**GMAIL CONFIG :**
 
 gwbrlkofikqvhpdm
 
-Cyber War :
+**Contourner la sécurité :**
 Faut clear les cookies et attendre 30 min à chaque ban
 
